@@ -1,4 +1,6 @@
 # 🎵 Spotify Clone
+<img width="1470" height="889" alt="Screenshot 2026-04-25 at 1 02 08 AM" src="https://github.com/user-attachments/assets/75dbcb3c-f4e7-4f71-8993-a3c36e50fbfc" />
+
 
 A high-fidelity, full-stack Spotify clone built with **React**, **FastAPI**, and **MongoDB**. Replicates the complete Spotify desktop and mobile experience — including real audio playback, drag-to-scrub controls, Now Playing panel, context menus, and a fully responsive mobile layout.
 
