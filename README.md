@@ -209,5 +209,5 @@ This project is licensed under the **MIT License**.
 ---
 
 <div align="center">
-  Built with ❤️ — a high-fidelity Spotify clone
+  Built with  ❤️  By Pratik Harkare
 </div>
